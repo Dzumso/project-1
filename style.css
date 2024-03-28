@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 27px;
+    color: #515076;
+    margin: 5px 0px 5px 0px;
+}
+
+img {
+    display: block;
+}
+
+p {
+    margin: 5px 0px 15px 0px;
+}
+
+ul li ul {
+    padding-left: 15px;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 78px;
+    margin: 0px;
+    text-align: center;
+    color: #515076;
+}
+
+.products {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main-text {
+    color: #515076;
+}
+
+.second-text {
+    font-size: 12px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #A5A3B9;
+    text-transform: uppercase;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.price {
+    font-size: 20px;
+    line-height: 24px;
+    display: inline-block;
+    margin: 25px 0px 25px 0px;
+}
+
+.summa{
+    font-size: 20px;
+    line-height: 24px;
+    display: inline-block;
+    margin: 25px 0px 25px 170px;
+}
+
+.wall {
+    background-color:  #F7F7FA;
+    height: 508px;
+    width: 290px;
+    padding: 25px;
+    margin: 25px;
+}
+
+.wallpic {
+    background-image: url(images/background.jpg);
+    background-position: center;
+    background-size: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 790px;
+}
